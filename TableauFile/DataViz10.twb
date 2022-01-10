@@ -27,10 +27,10 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='P1-nyc-park-crime-stats-q1-2018' name='pdf.0odjg4z11z3mvk1bm8ivm19c0v4t'>
-            <connection class='pdf' cleaning='yes' compat='no' dataRefreshTime='' interpretationMode='257' origfilename='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/Sec9/P1-nyc-park-crime-stats-q1-2018.pdf' password='' pgFrom='' pgTo='' server='' validate='no' />
+            <connection class='pdf' cleaning='yes' compat='no' dataRefreshTime='' interpretationMode='' origfilename='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/DataViz10/Dataset/P1-nyc-park-crime-stats-q1-2018.pdf' password='' pgFrom='' pgTo='' server='' validate='' />
           </named-connection>
           <named-connection caption='NYC Parks and Public Spaces' name='ogrdirect.1coajyg00q9qv910j1llj12rvxvh'>
-            <connection class='ogrdirect' directory='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/Sec9/NYC Parks and Public Spaces -  Spatial Files' filename='NYC Parks and Public Spaces.shp' password='' server='' tablename='' />
+            <connection class='ogrdirect' directory='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/DataViz10/Dataset/NYC Parks and Public Spaces -  Spatial Files' filename='NYC Parks and Public Spaces.shp' password='' server='' tablename='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation join='inner' type='join'>
